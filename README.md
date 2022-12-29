@@ -1,4 +1,4 @@
-LAB - Class xx
+LAB - Class 401d20
 Project: math-series
 Author: Jordan Kwan
 https://www.youtube.com/watch?v=pjIxDyLCOfQ
